@@ -1,3 +1,6 @@
+script_key = "taptaptap" 
+getgenv().skibidi_script_key = script_key
+
 getgenv().Depart = {
     ["Aimbot"] = {  
         ["Enabled"] = true,
