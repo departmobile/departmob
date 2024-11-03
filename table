@@ -76,3 +76,5 @@ getgenv().Depart = {
         ["Macro"] = false
     }
 }
+
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/cd409f0a18aaab4f3025875cb52454ea.lua"))()
